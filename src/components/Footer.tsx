@@ -5,7 +5,7 @@ export function Footer() {
         <div className="flex flex-col md:flex-row items-center justify-between gap-8">
           {/* Logo */}
           <a href="#" className="font-serif text-2xl tracking-tight text-foreground">
-            Hvile
+            Тифлопедагогика
           </a>
 
           {/* Links */}
@@ -28,12 +28,12 @@ export function Footer() {
           </div>
 
           {/* Copyright */}
-          <p className="text-sm text-muted-foreground">2026 Hvile. Все права защищены.</p>
+          <p className="text-sm text-muted-foreground">2026. Российская научная школа тифлопедагогики.</p>
         </div>
 
         {/* Large decorative logo */}
         <div className="mt-20 text-center">
-          <span className="font-serif text-[12rem] md:text-[16rem] leading-none text-border/50 select-none">H</span>
+          <span className="font-serif text-[12rem] md:text-[16rem] leading-none text-border/50 select-none">Т</span>
         </div>
       </div>
     </footer>

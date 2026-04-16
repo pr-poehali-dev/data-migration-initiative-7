@@ -11,27 +11,27 @@ export function Philosophy() {
             />
             <div className="absolute bottom-6 left-6 right-6 p-6 bg-background/90 backdrop-blur-sm rounded-lg">
               <p className="text-sm text-muted-foreground italic">
-                «Лучшая презентация — та, в которой каждый слайд несёт смысл, а не просто заполняет экран.»
+                «Воспитание слепых — это не снисхождение, а долг общества перед каждым человеком, способным к развитию.»
               </p>
             </div>
           </div>
 
           <div className="flex flex-col gap-8">
-            <span className="text-sm uppercase tracking-widest text-sage">Наша философия</span>
+            <span className="text-sm uppercase tracking-widest text-sage">О теме</span>
             <h2 className="font-serif text-4xl md:text-5xl tracking-tight text-foreground leading-tight text-balance">
-              Меньше шума — больше смысла
+              Путь длиной в два века
             </h2>
             <div className="space-y-6 text-muted-foreground leading-relaxed">
               <p>
-                Slidr создан для тех, кто устал от перегруженных слайдов и сложных инструментов. Мы верим: хорошая презентация рождается в спокойствии, а не в панике за час до выступления.
+                Российская тифлопедагогика прошла путь от первых благотворительных школ для слепых в XIX веке до научно обоснованной системы специального образования. Каждый этап — это имена людей, посвятивших жизнь этому делу.
               </p>
               <p>
-                Мы создали инструмент, который убирает лишнее и оставляет только главное — чистые шаблоны, интуитивный редактор и магия, которая превращает идеи в убедительные слайды.
+                Скребицкий, Щербина, Кулагин, Земцова — их труды заложили теоретический фундамент и изменили практику обучения незрячих детей в России и за её пределами.
               </p>
             </div>
             <div className="pt-4">
               <a href="#features" className="inline-flex items-center gap-2 text-foreground group">
-                <span className="border-b border-foreground pb-0.5">Все возможности</span>
+                <span className="border-b border-foreground pb-0.5">Ключевые деятели</span>
                 <span className="text-terracotta group-hover:translate-x-1 transition-transform duration-300">→</span>
               </a>
             </div>
